@@ -1,0 +1,64 @@
+{'learner-schedule pairs': 28800, 'pairs with stabilised interleaved table': 28776, '…and stabilised sequential folds': 28776, 'instances analysed': 400}
+
+by commutation class (instance-level: any learner, any schedule):
+              strict            fine          seq_differ         
+                mean sum size   mean sum size       mean sum size
+kind                                                             
+all commute    0.000   0  164  0.000   0  164      0.018   3  164
+append-append  0.577  41   71  0.577  41   71      0.859  61   71
+append-revise  0.073  12  165  0.067  11  165      0.230  38  165
+
+L6 test, precedence-graph cycle (the theorem's actual condition):
+                  pairs synthesis      rate
+precedence_cycle                           
+False             22724         0       0.0
+True               6052      1092  0.180436
+
+L6 test with exact conflicts over all lessons (single-pivot sandwich):
+                   pairs synthesis      rate
+conflict_sandwich                           
+False              22756        32  0.001406
+True                6020      1060   0.17608
+
+L6 test, learner-schedule pairs:
+                                                    pairs synthesis      rate
+case                                                                         
+each source <=1 effective lesson                    16724       652  0.038986
+no sandwich (one source's lessons all before th...  10309        95  0.009215
+sandwich                                             1743       345  0.197935
+
+among open-loop order-dependent instances:
+      strict    fine  seq_differ
+mean   0.675   0.662       0.948
+sum   52.000  51.000      73.000 n = 77
+{'learner-schedule pairs': 28800, 'pairs with stabilised interleaved table': 28776, '…and stabilised sequential folds': 28776, 'instances analysed': 400}
+
+by commutation class (instance-level: any learner, any schedule):
+            strict            fine          seq_differ         
+              mean sum size   mean sum size       mean sum size
+kind                                                           
+all commute   0.02   8  400  0.015   6  400      0.192  77  400
+
+L6 test, precedence-graph cycle (the theorem's actual condition):
+                  pairs synthesis      rate
+precedence_cycle                           
+False             23856         0       0.0
+True               4920       145  0.029472
+
+L6 test with exact conflicts over all lessons (single-pivot sandwich):
+                   pairs synthesis      rate
+conflict_sandwich                           
+False              23888        32   0.00134
+True                4888       113  0.023118
+
+L6 test, learner-schedule pairs:
+                                                    pairs synthesis      rate
+case                                                                         
+each source <=1 effective lesson                    24797        97  0.003912
+no sandwich (one source's lessons all before th...   3399        10  0.002942
+sandwich                                              580        38  0.065517
+
+among open-loop order-dependent instances:
+      strict   fine  seq_differ
+mean   0.148  0.111       0.907
+sum    8.000  6.000      49.000 n = 54

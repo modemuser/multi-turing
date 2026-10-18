@@ -1,0 +1,401 @@
+inst_id,strict,fine,seq_differ,kind,order_dependent
+0035b97e50d6,False,False,False,all commute,False
+00a33e7a329c,False,False,False,all commute,False
+00a4e118f971,False,False,False,append-revise,False
+0105e04a9ada,False,False,False,append-append,False
+01463aaec850,False,False,False,all commute,False
+01782dfcc734,False,False,True,append-revise,True
+0352484f698a,True,True,True,append-append,True
+03c58269a29c,False,False,False,all commute,False
+04fea780f7c1,False,False,False,all commute,False
+05aaa3be3843,False,False,False,append-revise,False
+06efc00ed7f2,False,False,True,append-revise,True
+08c05d359ff6,False,False,True,append-revise,False
+08f5e6f3bdbc,False,False,False,all commute,False
+094acc547273,False,False,False,append-revise,False
+09588b0ca8ca,False,False,False,append-append,False
+09ba9ae67953,False,False,False,all commute,False
+09ff87f742ff,False,False,True,append-revise,False
+0a77f41e58bf,True,True,True,append-append,True
+0b7142ae7d8d,False,False,False,append-revise,False
+0cc033789119,False,False,False,append-revise,False
+0d95dc8c845a,False,False,False,append-revise,False
+0dca46205721,False,False,True,all commute,False
+0dfee4317ffc,False,False,False,all commute,False
+0e9daf2410b8,False,False,False,all commute,False
+0f41e87cde9a,False,False,False,append-revise,False
+0f968ac2d042,False,False,False,all commute,False
+149e309a3262,False,False,False,all commute,False
+15669c908e37,False,False,True,append-revise,False
+160c50f81a26,False,False,False,all commute,False
+1650e5406ac0,False,False,False,all commute,False
+166c79cb64c9,False,False,False,all commute,False
+16d4ede18cb9,False,False,False,append-revise,False
+192a16ef57ef,False,False,True,append-revise,True
+19de211aaa65,False,False,False,append-revise,False
+1aa469f700f9,False,False,False,all commute,False
+1ae024c27580,False,False,True,append-append,False
+1b0ab62d703a,False,False,False,append-append,False
+1c888255ad21,False,False,False,append-revise,False
+1d37bb759e6f,False,False,False,append-revise,False
+1d5c214b27be,True,True,True,append-append,True
+1d95163d5f45,False,False,False,all commute,False
+1f1eba9165c8,False,False,True,append-append,False
+1fd8ebfc61c7,True,True,True,append-append,True
+201ee2251e17,True,True,True,append-revise,True
+216f4ba1ab85,False,False,False,append-revise,False
+21dbf491dd54,False,False,False,append-revise,False
+2741687d012a,False,False,False,all commute,False
+28ef8f38a815,False,False,False,append-revise,False
+294e4e043877,False,False,False,append-revise,False
+2a35e3b4a7a2,False,False,False,all commute,False
+2a8afc3c60e0,True,True,True,append-append,True
+2ab0122ce048,False,False,False,append-append,False
+2b809e83287e,True,True,True,append-append,True
+2c697fddc44d,False,False,False,all commute,False
+2c7f158447cc,False,False,False,append-revise,False
+2d9377c49b1c,False,False,False,all commute,False
+2da2761099dd,True,True,True,append-revise,True
+2da2cf091d70,False,False,False,append-revise,False
+2f73877c1136,False,False,False,append-revise,False
+2ff767835a08,False,False,True,append-append,False
+30f11d0cb6d3,False,False,False,all commute,False
+31390935ca12,False,False,False,all commute,False
+313bc701c226,False,False,True,append-revise,False
+31a2e3d4c751,True,True,True,append-append,True
+3246c5a7b198,False,False,False,all commute,False
+329d22704ed0,False,False,False,append-revise,False
+3385a5a24f0a,True,True,True,append-append,True
+34925c19b4de,False,False,False,all commute,False
+34d27f63006e,False,False,False,all commute,False
+359177f218c7,False,False,False,all commute,False
+3667ee921c51,False,False,False,append-revise,False
+36b37ba98f79,False,False,False,all commute,False
+372674aa938e,False,False,False,append-revise,False
+37eeb79c1960,True,True,True,append-append,True
+38c0711fcf3c,False,False,False,append-revise,False
+38cf5d528284,False,False,False,all commute,False
+38eec54e3b61,False,False,False,all commute,False
+394b6e15046f,False,False,True,append-append,False
+3a0722850bbc,False,False,False,all commute,False
+3abbed78ed52,False,False,False,all commute,False
+3b277f31fa60,True,True,True,append-append,True
+3b53b8f3cc15,False,False,False,all commute,False
+3b73dc7f6b9b,False,False,False,append-revise,False
+3be000d22108,False,False,False,all commute,False
+3d5ad6375146,True,True,True,append-append,True
+3d9fb9972e2c,False,False,False,all commute,False
+417e25914623,False,False,False,all commute,False
+4210fbc03c14,False,False,False,all commute,False
+424efecc7173,False,False,False,append-revise,False
+42a4ee92d4fa,False,False,False,append-revise,False
+42b86a12c9b6,False,False,True,append-append,True
+4467679892c3,False,False,False,append-revise,False
+463e598b3658,False,False,False,all commute,False
+4651188909e6,False,False,False,all commute,False
+469f50a4d57b,False,False,False,all commute,False
+46f0ea430a5f,False,False,False,append-revise,False
+4737dbbfc436,False,False,False,all commute,False
+474e117c62b2,False,False,True,append-append,True
+4750fbd05908,False,False,True,append-append,True
+47af923508f9,False,False,False,append-revise,False
+47db51831360,False,False,False,append-revise,False
+47fa9df694d0,False,False,False,append-revise,False
+4806c8b1c913,False,False,False,all commute,False
+482001a7ecd2,False,False,False,append-revise,False
+497fb56b0bde,False,False,False,all commute,False
+49c4e107a17b,False,False,False,all commute,False
+49e2fba5b2c3,True,True,True,append-append,True
+4ad61fc3e077,False,False,False,all commute,False
+4ad8150b119f,True,True,True,append-append,True
+4b19ea7d11e5,False,False,True,append-revise,False
+4b29b346946e,False,False,False,all commute,False
+4bf385daca60,False,False,False,append-revise,False
+4cf2d88aaa18,False,False,False,append-append,False
+4e7cd0b66722,False,False,False,append-revise,False
+4eeff6f1f690,False,False,False,all commute,False
+511d17d1c608,False,False,False,append-revise,False
+5257cca7f3ad,False,False,False,append-revise,False
+55eb32c20058,True,True,False,append-revise,True
+56376ff71204,True,True,True,append-revise,True
+565124ab159f,True,True,True,append-revise,True
+566e8461dc2c,False,False,False,all commute,False
+56b0dd7f35cd,False,False,True,append-append,True
+571461ae2666,True,True,True,append-append,True
+571e327a66e5,False,False,False,all commute,False
+57ccfff86e40,False,False,False,all commute,False
+5824aa8da1a5,False,False,False,append-revise,False
+5846ceb4ba75,False,False,False,append-revise,False
+586751b7975b,False,False,False,append-revise,False
+5972c177fd47,False,False,False,append-revise,True
+5b3eb31d51b4,False,False,True,append-append,False
+5c172083d908,False,False,False,all commute,False
+5c7675b70eae,False,False,False,all commute,False
+5e1866357339,False,False,False,append-revise,False
+5fc261f94d9c,True,True,True,append-append,True
+60695aec64f9,False,False,False,all commute,False
+611e2d219920,False,False,False,append-revise,False
+614ff2b0bcb1,False,False,False,append-revise,False
+61bd33ffa7f2,False,False,False,all commute,False
+61e1b06dc938,False,False,False,all commute,False
+6230b40dc7ba,True,True,True,append-append,True
+62effbd0cad9,False,False,False,append-revise,False
+62f9340e9d37,False,False,False,append-revise,False
+63b73d598b0f,False,False,False,append-revise,False
+64102955fb81,False,False,False,all commute,False
+64793f5a1ee9,False,False,False,all commute,False
+6507e523bf0d,False,False,True,append-revise,True
+658a67f5ad25,False,False,False,append-revise,False
+65d3ad765410,False,False,False,append-revise,False
+6664091dbbd2,True,True,True,append-append,True
+66c361cf0ab3,False,False,False,all commute,False
+670dcfe3804d,True,True,True,append-append,True
+67d30d5c4fa0,False,False,False,append-revise,False
+680e36040205,False,False,False,all commute,False
+688a48e0354a,False,False,False,all commute,False
+68f8d0e66f29,False,False,False,append-revise,False
+69bfd7c4fcaa,False,False,False,all commute,False
+69f2a8b9b565,True,True,False,append-revise,True
+6a178e2bc840,False,False,False,all commute,False
+6c35cdf51e7b,False,False,False,all commute,False
+6cea5eae5edc,False,False,False,all commute,False
+6db0a37d8467,False,False,False,all commute,False
+6e0c993e094a,False,False,False,all commute,False
+6ef3d9723791,False,False,True,append-append,False
+6f1f473e3437,False,False,False,all commute,False
+6f6cb774042e,False,False,False,all commute,False
+6f6d8ff77276,False,False,False,append-revise,False
+6ffe86735f6c,True,True,True,append-append,True
+6ffec0e11b29,False,False,False,append-revise,False
+70938d0bc4e2,False,False,False,append-revise,False
+70fdd08748f7,False,False,False,append-revise,False
+715f4c436774,False,False,False,all commute,False
+73e8c0314fda,False,False,True,append-revise,False
+74c8651361d1,False,False,False,all commute,False
+7566e8db6ca3,True,True,True,append-append,True
+762bc92d06a6,False,False,False,append-revise,False
+76775f9aaa74,False,False,False,all commute,False
+773dc2762558,True,True,True,append-append,False
+78021b8485f9,False,False,False,all commute,False
+79c2ef6c6b37,False,False,False,all commute,False
+7a7183fa2dac,False,False,False,append-revise,False
+7a9813888e75,False,False,True,append-append,False
+7aaa54746710,False,False,True,append-revise,False
+7b49bb78e99e,False,False,False,append-revise,False
+7b715f266e69,False,False,False,all commute,False
+7b7581d10826,False,False,False,all commute,False
+7db8e4a8893c,True,True,False,append-revise,True
+7e106512ff2e,False,False,False,append-revise,False
+7ebb9cc9bb88,False,False,False,append-revise,False
+7fa2f8277e29,False,False,False,append-append,False
+7fb1319d927e,True,True,True,append-append,True
+7fe69671f4be,False,False,False,append-revise,False
+7fe8d39029b1,False,False,False,all commute,False
+80a78c1c6778,False,False,False,append-revise,False
+80d189540e76,False,False,False,append-revise,False
+80e9cd2809c8,False,False,False,all commute,False
+823aee991597,False,False,False,all commute,False
+82809d2594ac,False,False,False,append-revise,False
+82a1b4d5628f,False,False,False,all commute,False
+832cb440756a,False,False,False,all commute,False
+84083ff0b690,True,True,True,append-append,True
+8475e90dcb21,False,False,False,all commute,False
+847c28538c0a,False,False,False,append-revise,False
+84b8c074fbf4,False,False,False,all commute,False
+84efd785689f,False,False,True,append-append,False
+867e52abd4cb,False,False,False,append-revise,False
+86a67fdb7ae6,False,False,False,all commute,False
+86f543c80b1b,False,False,False,append-revise,False
+87c3c4e2a447,False,False,True,all commute,False
+87fd0302ae1c,False,False,False,append-revise,False
+88b8b79c0451,True,True,True,append-append,True
+8acf8432b05b,False,False,False,all commute,False
+8b66c1554916,False,False,False,append-revise,False
+8cc8ee82f9ed,False,False,False,all commute,False
+8cee3ea10811,False,False,False,all commute,False
+8d3c3460f2c3,True,True,True,append-append,True
+8daf2393311b,False,False,True,append-revise,True
+8e8634c98b15,False,False,True,append-revise,False
+8eb2d3db21fa,False,False,True,append-revise,True
+8ebbcdf1b84a,False,False,False,append-revise,False
+8f90a4414f54,True,False,True,append-revise,True
+901eca4f30c5,False,False,False,append-revise,False
+9069e8a93397,False,False,True,append-revise,False
+90e278fc2b4d,False,False,False,append-revise,False
+911e1ec7e305,False,False,False,all commute,False
+9175c0f8d30d,False,False,False,all commute,False
+9595feda96b6,False,False,False,append-revise,False
+973aec067b6d,False,False,False,append-append,False
+9752abd3fc9a,False,False,False,append-revise,False
+977add70807d,False,False,False,append-revise,False
+989b8b56ed19,False,False,False,append-revise,False
+994c7430c496,False,False,False,append-append,False
+996bb99e04b2,False,False,False,all commute,False
+99c2101e9c47,False,False,True,append-append,True
+99fc21fe2325,False,False,False,all commute,False
+9a94af1b72ee,True,True,True,append-append,True
+9b456ca3b580,False,False,False,all commute,False
+9b815844346d,False,False,False,append-revise,False
+9c047d94f4b3,False,False,False,all commute,False
+9e42e7d4ca4d,True,True,True,append-append,True
+9e9ef85fccc8,False,False,True,append-revise,False
+9ea00698edde,False,False,False,append-revise,False
+9ed5117b0432,False,False,False,all commute,False
+9f143a45978e,False,False,False,all commute,False
+a1274b0b378e,False,False,False,all commute,False
+a1a8c19b7fd5,False,False,True,append-append,True
+a3e309270261,False,False,False,append-revise,False
+a3f0865e188d,False,False,False,append-revise,False
+a4a33a2ddda6,True,True,True,append-append,True
+a4ddb341a55a,False,False,False,append-revise,False
+a50657cab9a1,False,False,False,all commute,False
+a5af81c90595,False,False,False,all commute,False
+a5c16ff465b8,True,True,True,append-append,True
+a5d6c0433d9b,False,False,False,all commute,False
+a6804f53007f,False,False,False,all commute,False
+a697d5f79992,False,False,False,all commute,False
+a701fff07a7d,False,False,True,append-append,False
+a819d0dd192b,False,False,False,append-revise,False
+aacec74fc7b3,False,False,False,append-revise,False
+aaf38d53794a,False,False,False,append-revise,False
+ab0a468a1d63,False,False,False,all commute,False
+abaf016d9a30,False,False,False,all commute,False
+acfac5725a1e,False,False,False,all commute,False
+ae2c0fe83b11,False,False,True,append-append,False
+ae71ef151cfc,False,False,False,all commute,False
+aea3013d4639,False,False,False,append-revise,False
+af0bd9391f1e,False,False,False,all commute,False
+b120db147393,False,False,False,append-revise,False
+b15e3e62b12d,True,True,True,append-append,True
+b16fdbf33616,False,False,True,append-revise,True
+b1a088f6e594,True,True,True,append-append,True
+b1f56445d022,False,False,False,append-revise,False
+b2cdd852157f,False,False,True,append-revise,True
+b50cda3dcc1d,False,False,False,all commute,False
+b5ad6f08a92e,False,False,False,all commute,False
+b6204443cbc7,False,False,False,all commute,False
+b64b0a77869e,False,False,False,all commute,False
+b81621141341,False,False,False,all commute,False
+b92b506ac1ce,False,False,False,all commute,False
+ba35e5c0dda3,False,False,True,append-revise,True
+ba74af43f27d,False,False,False,all commute,False
+bae83787a129,False,False,False,all commute,False
+bc5a0f5e6163,False,False,False,all commute,False
+bc967af48230,False,False,False,append-revise,False
+bc9ad3109790,False,False,True,append-revise,False
+bf63513b4402,False,False,False,append-revise,False
+c008bacc1f68,False,False,False,all commute,False
+c0939a11e2c6,False,False,False,append-revise,False
+c0a4398502ea,False,False,False,all commute,False
+c11f9d4e9370,False,False,False,append-revise,False
+c13b9f9f8e03,False,False,False,append-revise,False
+c2e62b99a1b4,False,False,False,all commute,False
+c30c2e9c743b,False,False,False,all commute,False
+c429516cbc24,False,False,False,append-revise,False
+c4338ad19333,False,False,False,all commute,False
+c45bfebcbbfd,False,False,False,append-revise,False
+c470f11ffed7,False,False,False,all commute,False
+c574f4a033e6,False,False,False,all commute,False
+c602d7697a21,False,False,False,all commute,False
+c69c290bef99,False,False,True,append-revise,False
+c6c416527251,False,False,False,append-revise,False
+c707bc88ce5b,False,False,False,append-revise,False
+c7e2dc49e926,True,True,True,append-append,True
+c8085b319d18,False,False,True,append-revise,False
+c8a14566632a,False,False,False,append-revise,False
+c9350b83f8e8,False,False,True,append-append,False
+c953a75babb0,False,False,False,append-revise,False
+ca4be25f8461,True,True,True,append-revise,True
+ca4de63cc49b,False,False,False,all commute,False
+ca8dabe9acf3,False,False,False,all commute,False
+cad1f8bfc242,False,False,True,append-append,True
+cb75482d65cf,False,False,False,append-revise,False
+cbc4b63e1800,False,False,False,all commute,False
+ccf94161f92a,False,False,False,append-revise,False
+cd318cbcd2e1,False,False,False,append-revise,False
+cdb86a5d3993,True,True,True,append-revise,True
+cebc0555efa2,False,False,False,all commute,False
+cfb3adf04240,False,False,False,all commute,False
+d03c61b530dc,True,True,True,append-append,True
+d09190cc8551,False,False,False,append-revise,False
+d1329a44919b,False,False,False,all commute,False
+d148318f290b,False,False,True,append-append,True
+d14936005d29,False,False,False,append-append,False
+d1d13527dc7d,False,False,True,append-revise,True
+d20e33a63388,False,False,False,append-revise,False
+d27fa4998e62,True,True,True,append-append,True
+d2a3fa08d57a,False,False,False,all commute,False
+d38acc8dba25,True,True,True,append-revise,True
+d459f14c78ee,False,False,False,append-revise,False
+d50539a5b0e5,True,True,True,append-append,True
+d5ec290dea7e,False,False,False,all commute,False
+d667b627848f,False,False,False,all commute,False
+d6b8d1c0f277,False,False,False,all commute,False
+d7116c59cda9,False,False,False,all commute,False
+d7c66cffdc35,False,False,False,all commute,False
+d88962e58146,False,False,False,all commute,False
+d8f36ab09169,False,False,False,all commute,False
+d9346b1ab9dc,False,False,False,all commute,False
+d934d4a0afa0,False,False,False,append-revise,False
+db19d8a7c643,True,True,True,append-append,True
+dbc53bc8e8ff,False,False,True,append-revise,True
+dbce9fecfc12,False,False,False,all commute,False
+dc5cc33dac46,False,False,False,append-revise,False
+dd5adfde0dcb,True,True,True,append-revise,True
+de65839f116e,False,False,False,all commute,False
+ded13a0c9013,False,False,False,all commute,False
+df11fe58e2cc,False,False,False,append-revise,False
+dfc5d0f5556b,False,False,True,append-revise,True
+e0601a168e83,False,False,False,all commute,False
+e0f1af873d92,False,False,False,append-revise,False
+e278050f0afc,False,False,False,append-append,False
+e37443f9f378,False,False,False,all commute,False
+e46da4ad9967,False,False,False,all commute,False
+e473f0b886cc,False,False,False,all commute,False
+e600efd44658,False,False,False,all commute,False
+e7dfefc772ac,False,False,False,all commute,False
+e924a243a44c,False,False,False,append-revise,False
+e9455904c779,False,False,False,append-revise,False
+e9802bc2c724,False,False,False,all commute,False
+ea848f3afea5,False,False,False,all commute,False
+eac5e8017346,False,False,True,append-append,True
+eb618bdd9d71,False,False,False,append-revise,False
+eb7b1c14dfdb,False,False,False,append-revise,False
+ebb1625a31ab,False,False,True,all commute,False
+ebeeec54245e,True,True,True,append-append,True
+ec222cdbe69b,False,False,False,all commute,False
+ec3925224150,False,False,True,append-revise,False
+ecaff45a7fa6,False,False,True,append-revise,True
+ed34bd6b93a5,False,False,False,append-revise,False
+eddbdac33de0,False,False,False,all commute,False
+eeb007f647fd,False,False,False,append-revise,False
+eeebb44e1850,False,False,False,append-revise,False
+eef673d28b7b,True,True,True,append-append,True
+ef42e50a0fa2,False,False,False,append-revise,False
+efc297a360bd,False,False,False,all commute,False
+f00e7b14df52,False,False,False,append-revise,False
+f2b283570b4a,False,False,True,append-revise,True
+f3a318b91261,False,False,False,all commute,False
+f4144cbb459a,True,True,True,append-append,True
+f42f9364530c,True,True,True,append-append,True
+f54a9c06ac15,False,False,False,all commute,False
+f5f7bddbff41,False,False,False,all commute,False
+f651440b5899,False,False,False,all commute,False
+f6a03c2be833,False,False,False,all commute,False
+f6d3d55edce9,False,False,False,append-revise,False
+f6d72e85f382,False,False,False,all commute,False
+f6e67864d855,False,False,True,append-revise,True
+f70c2771aacd,False,False,False,append-revise,False
+f9cc543efb55,False,False,False,all commute,False
+fa690a8da34f,False,False,False,append-revise,False
+faa82a9969bd,False,False,False,all commute,False
+fb0936158dd9,False,False,False,append-revise,False
+fb10607d540d,False,False,False,append-revise,False
+fb77dbdec5d4,False,False,False,all commute,False
+fbeebf77a03a,False,False,False,append-revise,False
+fcc5e10f3ebc,False,False,False,all commute,False
+fd313e254917,False,False,False,append-revise,False
+fd6594883aff,False,False,False,all commute,False
+fe5cc1974c32,False,False,False,append-revise,False
+ff916c0bed0b,True,True,True,append-append,True
+ffe1279aecc2,False,False,False,append-revise,False

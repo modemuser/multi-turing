@@ -1,0 +1,16 @@
+{
+  "out": "results/publish/threshold",
+  "N": 8,
+  "per_k": 2500,
+  "budget": 200000,
+  "seed": 2026,
+  "only": "^(L_exo_complete|Lo_exo_complete|Lo_exo_ring)$",
+  "instances": "results/publish/probe400.jsonl",
+  "edit_kind": "threshold",
+  "M": 3,
+  "hold_cap": 3,
+  "wait_cap": 6,
+  "n_instances": 400,
+  "n_exo_schedules": 24,
+  "seconds": 109.1
+}

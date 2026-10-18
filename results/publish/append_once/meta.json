@@ -1,0 +1,16 @@
+{
+  "out": "results/publish/append_once",
+  "N": 8,
+  "per_k": 2500,
+  "budget": 200000,
+  "seed": 2026,
+  "only": "^Lo_exo_complete$",
+  "instances": "results/publish/probe400.jsonl",
+  "edit_kind": "append_once",
+  "M": 3,
+  "hold_cap": 3,
+  "wait_cap": 6,
+  "n_instances": 400,
+  "n_exo_schedules": 24,
+  "seconds": 61.0
+}

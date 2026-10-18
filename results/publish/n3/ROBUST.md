@@ -1,0 +1,8 @@
+# Robustness: 3-state base machines
+
+Exploratory probe: 396 instances, complete graph, 24 schedules, closed vs open loop, new bricks on all 256 fresh tapes (20k-step cap). Append learners grow to 5 states.
+
+| learner | instances | rule synthesis | P(new brick | synthesis) | instances with a new brick | feedback-required share | new bricks with NO revision rules |
+|---|---|---|---|---|---|---|
+| append | 395 | 0.071 [0.068, 0.074] (n=28350) | 0.236 [0.218, 0.255] (n=2018) | 0.101 [0.075, 0.135] (n=395) | 0.740 [0.699, 0.777] (n=477) | 0 |
+| set | 395 | 0.000 [0.000, 0.001] (n=28350) | 0.615 [0.355, 0.823] (n=13) | 0.003 [0.000, 0.014] (n=395) | 1.000 [0.676, 1.000] (n=8) | 0 |

@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.DS_Store
+# exploratory results from development; the post cites only results/publish/
+results/*
+!results/publish/
+# agent instructions (working material)
+CLAUDE.md

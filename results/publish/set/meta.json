@@ -1,0 +1,16 @@
+{
+  "out": "results/publish/set",
+  "N": 8,
+  "per_k": 200,
+  "budget": 200000,
+  "seed": 2026,
+  "only": "^(L_exo_|Lo_exo_|F_exo$|C1_exo_)",
+  "instances": null,
+  "edit_kind": "set",
+  "M": 3,
+  "hold_cap": 3,
+  "wait_cap": 6,
+  "n_instances": 800,
+  "n_exo_schedules": 24,
+  "seconds": 1439.2
+}

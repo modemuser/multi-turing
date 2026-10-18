@@ -1,0 +1,6 @@
+n,learner,inst_id,agent,open_order_dependent,synthesises,contested_fields,L9_case_iii
+2,set,84fa2804d1b9,1,True,False,1,True
+3,pregrown,9f1fbb84d2b6,1,True,False,1,True
+3,set,2a4af7ba6bbe,2,True,False,1,True
+3,set,731b36adaa44,1,True,True,2,
+3,set,e2ccf3a8c1bb,0,False,True,2,
