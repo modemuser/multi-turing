@@ -1,7 +1,8 @@
 # multi-turing
 
 Code and data for the LessWrong post *Reflexivity in tiny swarms: what Turing machines that learn
-from each other can show*.
+from each other can show*: [POST.md](POST.md) is the post, [POST_LONG.md](POST_LONG.md) the long
+version with the full methodology.
 
 Three tiny Turing machines (2 states, 2 symbols, circular tape of 8 cells, no halting) run side by
 side, each on its own tape. Each one watches the others and learns from what it sees: an observation applies a
